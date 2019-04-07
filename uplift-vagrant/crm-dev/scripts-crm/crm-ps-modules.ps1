@@ -11,7 +11,7 @@ $packages = @(
 
     @{ 
         Id = "Dynamics365Configuration"
-        Version = "1.0"
+        Version = "1.2"
     },
 
     @{ 
